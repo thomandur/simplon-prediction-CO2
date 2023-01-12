@@ -3,7 +3,7 @@ import requests
 class Api:
 
     # _BASEURL = 'http://127.0.0.1:8000/'
-    _BASEURL = 'https://af65-86-215-127-124.eu.ngrok.io/'
+    _BASEURL = 'https://77e3-86-215-127-124.eu.ngrok.io'
 
     @classmethod
     def change_baseurl(cls, url = None):
